@@ -1,4 +1,4 @@
-#https://github.com/21-twenty-one/21/security/advisories
+
 # Trezor Connect API version 8.1.30-beta.2
 
 
